@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # renamer/views.py
 
-"""This module provides the RP Renamer main window."""
+"""This module provides the Renamer main window."""
 
 from collections import deque
 from pathlib import Path
